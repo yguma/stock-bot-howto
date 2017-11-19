@@ -37,8 +37,6 @@ parser_8 = WebhookParser(channel_secret_8)
 
 
 #===================================================
-# Line bot 8
-#----
 #   stock bot
 #===================================================
 @app.route("/callback_yangbot8", methods=['POST'])
